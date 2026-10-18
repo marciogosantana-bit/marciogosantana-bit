@@ -4,8 +4,8 @@
 ║                                                                    ║
 ║  Faça Ctrl+F / Substituir:                                         ║
 ║    marciogosantana-bit → seu username do GitHub                            ║
-║    SEU+NOME    → seu nome (no banner, separe com +)                ║
-║    SEU NOME    → seu nome (no texto)                               ║
+║    SEU+NOME    → Márcio Gabriel (no banner, separe com +)                ║
+║    Márcio Gabriel    → Márcio Gabriel (no texto)                               ║
 ║    repo1..repo4 → nomes dos seus repositórios                      ║
 ║                                                                    ║
 ║  SNAKE: o código do workflow está no FINAL deste arquivo,          ║
@@ -66,7 +66,7 @@
 
 ```javascript
 const dev = {
-  nome: "SEU NOME",
+  nome: "Márcio Gabriel",
   papel: "Estudante de Informática & Dev Web em formação",
   local: "Brasília, DF 🇧🇷",
   escola: "Escola Técnica de Brasília (ETB) — 3º semestre",
