@@ -4,7 +4,7 @@
 ║                                                                    ║
 ║  Faça Ctrl+F / Substituir:                                         ║
 ║    marciogosantana-bit → seu username do GitHub                            ║
-║    SEU+NOME    → Márcio Gabriel (no banner, separe com +)                ║
+║    Márcio+Gabriel    → Márcio Gabriel (no banner, separe com +)                ║
 ║    Márcio Gabriel    → Márcio Gabriel (no texto)                               ║
 ║    repo1..repo4 → nomes dos seus repositórios                      ║
 ║                                                                    ║
@@ -16,7 +16,7 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050810,50:1b1040,100:050810&height=230&section=header&text=SEU+NOME&fontSize=64&fontColor=00f0ff&fontAlignY=38&desc=DEV+WEB+%C2%B7+JAVA+%C2%B7+HARDWARE+%C2%B7+BRAS%C3%8DLIA&descSize=18&descColor=c9d1d9&descAlignY=60&animation=fadeIn&stroke=7a5cff&strokeWidth=1" width="100%" alt="Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050810,50:1b1040,100:050810&height=230&section=header&text=Márcio+Gabriel&fontSize=64&fontColor=00f0ff&fontAlignY=38&desc=DEV+WEB+%C2%B7+JAVA+%C2%B7+HARDWARE+%C2%B7+BRAS%C3%8DLIA&descSize=18&descColor=c9d1d9&descAlignY=60&animation=fadeIn&stroke=7a5cff&strokeWidth=1" width="100%" alt="Banner" />
 
 <!-- BOOT DO SISTEMA -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=1400&pause=1800&color=39FF88&background=0A0E17&center=false&vCenter=true&multiline=true&repeat=true&width=560&height=170&lines=%3E+BOOT+SEQUENCE+INICIADA...;%5B+OK+%5D+Carregando+n%C3%BAcleo+neural;%5B+OK+%5D+Montando+reposit%C3%B3rios;%5B+OK+%5D+Sincronizando+commits;%5B+OK+%5D+Compilando+criatividade;%E2%97%8F+SISTEMA+ONLINE" alt="Boot do sistema" />
