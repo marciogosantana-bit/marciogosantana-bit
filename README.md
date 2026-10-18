@@ -3,7 +3,7 @@
 ║  README ÚNICO — não precisa de nenhum outro arquivo (exceto Snake) ║
 ║                                                                    ║
 ║  Faça Ctrl+F / Substituir:                                         ║
-║    SEU_USUARIO → seu username do GitHub                            ║
+║    marciogosantana-bit → seu username do GitHub                            ║
 ║    SEU+NOME    → seu nome (no banner, separe com +)                ║
 ║    SEU NOME    → seu nome (no texto)                               ║
 ║    repo1..repo4 → nomes dos seus repositórios                      ║
@@ -24,15 +24,15 @@
 <br/>
 
 <!-- TYPING ANIMATION -->
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/marciogosantana-bit">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=00F0FF&center=true&vCenter=true&repeat=true&width=760&height=48&lines=%3E+Estudante+de+Inform%C3%A1tica+%40+ETB;%3E+Dev+Web+em+forma%C3%A7%C3%A3o+%F0%9F%92%BB;%3E+Do+hardware+ao+c%C3%B3digo+%F0%9F%94%A7;%3E+Rumo+%C3%A0+Engenharia+de+Software+na+UnB+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <img src="https://img.shields.io/badge/STATUS-ABERTO_A_OPORTUNIDADES-39ff88?style=for-the-badge&labelColor=0a0e17&logo=statuspage&logoColor=39ff88" alt="Status" />
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=VISITAS&color=00f0ff&style=for-the-badge&labelColor=0a0e17" alt="Visitas" />
-<img src="https://img.shields.io/github/followers/SEU_USUARIO?label=SEGUIDORES&style=for-the-badge&color=ff2bd6&labelColor=0a0e17&logo=github" alt="Seguidores" />
+<img src="https://komarev.com/ghpvc/?username=marciogosantana-bit&label=VISITAS&color=00f0ff&style=for-the-badge&labelColor=0a0e17" alt="Visitas" />
+<img src="https://img.shields.io/github/followers/marciogosantana-bit?label=SEGUIDORES&style=for-the-badge&color=ff2bd6&labelColor=0a0e17&logo=github" alt="Seguidores" />
 
 <br/>
 
@@ -205,32 +205,32 @@ const dev = {
 <table>
 <tr>
 <td width="50%" align="center">
-<a href="https://github.com/SEU_USUARIO/repo1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=repo1&theme=transparent&bg_color=0a0e17&title_color=00f0ff&text_color=c9d1d9&icon_color=ff2bd6&border_color=1f2a3d&show_owner=false" alt="Projeto 1" width="100%"/>
+<a href="https://github.com/marciogosantana-bit/repo1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=marciogosantana-bit&repo=repo1&theme=transparent&bg_color=0a0e17&title_color=00f0ff&text_color=c9d1d9&icon_color=ff2bd6&border_color=1f2a3d&show_owner=false" alt="Projeto 1" width="100%"/>
 </a>
 </td>
 <td width="50%" align="center">
-<a href="https://github.com/SEU_USUARIO/repo2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=repo2&theme=transparent&bg_color=0a0e17&title_color=00f0ff&text_color=c9d1d9&icon_color=ff2bd6&border_color=1f2a3d&show_owner=false" alt="Projeto 2" width="100%"/>
+<a href="https://github.com/marciogosantana-bit/repo2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=marciogosantana-bit&repo=repo2&theme=transparent&bg_color=0a0e17&title_color=00f0ff&text_color=c9d1d9&icon_color=ff2bd6&border_color=1f2a3d&show_owner=false" alt="Projeto 2" width="100%"/>
 </a>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
-<a href="https://github.com/SEU_USUARIO/repo3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=repo3&theme=transparent&bg_color=0a0e17&title_color=00f0ff&text_color=c9d1d9&icon_color=ff2bd6&border_color=1f2a3d&show_owner=false" alt="Projeto 3" width="100%"/>
+<a href="https://github.com/marciogosantana-bit/repo3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=marciogosantana-bit&repo=repo3&theme=transparent&bg_color=0a0e17&title_color=00f0ff&text_color=c9d1d9&icon_color=ff2bd6&border_color=1f2a3d&show_owner=false" alt="Projeto 3" width="100%"/>
 </a>
 </td>
 <td width="50%" align="center">
-<a href="https://github.com/SEU_USUARIO/repo4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=repo4&theme=transparent&bg_color=0a0e17&title_color=00f0ff&text_color=c9d1d9&icon_color=ff2bd6&border_color=1f2a3d&show_owner=false" alt="Projeto 4" width="100%"/>
+<a href="https://github.com/marciogosantana-bit/repo4">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=marciogosantana-bit&repo=repo4&theme=transparent&bg_color=0a0e17&title_color=00f0ff&text_color=c9d1d9&icon_color=ff2bd6&border_color=1f2a3d&show_owner=false" alt="Projeto 4" width="100%"/>
 </a>
 </td>
 </tr>
 </table>
 
 <div align="center">
-<a href="https://github.com/SEU_USUARIO?tab=repositories">
+<a href="https://github.com/marciogosantana-bit?tab=repositories">
   <img src="https://img.shields.io/badge/VER_TODOS_OS_REPOSITÓRIOS-→-00f0ff?style=for-the-badge&labelColor=0a0e17" alt="Ver todos"/>
 </a>
 </div>
@@ -273,19 +273,19 @@ dev@brasilia:~$ cat objetivos_atuais.md
 <table>
 <tr>
 <td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=false&bg_color=0a0e17&title_color=00f0ff&text_color=c9d1d9&icon_color=ff2bd6&border_color=1f2a3d&ring_color=7a5cff&count_private=true&include_all_commits=true&rank_icon=github&locale=pt-br" alt="GitHub Stats" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=marciogosantana-bit&show_icons=true&hide_border=false&bg_color=0a0e17&title_color=00f0ff&text_color=c9d1d9&icon_color=ff2bd6&border_color=1f2a3d&ring_color=7a5cff&count_private=true&include_all_commits=true&rank_icon=github&locale=pt-br" alt="GitHub Stats" width="100%"/>
 </td>
 <td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=false&bg_color=0a0e17&title_color=00f0ff&text_color=c9d1d9&border_color=1f2a3d&langs_count=8&locale=pt-br" alt="Top Languages" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciogosantana-bit&layout=compact&hide_border=false&bg_color=0a0e17&title_color=00f0ff&text_color=c9d1d9&border_color=1f2a3d&langs_count=8&locale=pt-br" alt="Top Languages" width="100%"/>
 </td>
 </tr>
 </table>
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=transparent&background=0a0e17&stroke=1f2a3d&ring=00f0ff&fire=ff2bd6&currStreakNum=00f0ff&sideNums=c9d1d9&currStreakLabel=7a5cff&sideLabels=7a5cff&dates=5b6b86&border=1f2a3d&locale=pt_BR" alt="GitHub Streak" width="98%"/>
+<img src="https://streak-stats.demolab.com?user=marciogosantana-bit&theme=transparent&background=0a0e17&stroke=1f2a3d&ring=00f0ff&fire=ff2bd6&currStreakNum=00f0ff&sideNums=c9d1d9&currStreakLabel=7a5cff&sideLabels=7a5cff&dates=5b6b86&border=1f2a3d&locale=pt_BR" alt="GitHub Streak" width="98%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0a0e17&color=00f0ff&line=7a5cff&point=ff2bd6&area=true&area_color=7a5cff&hide_border=true&radius=10&custom_title=Activity%20Graph%20%E2%80%94%20Contribui%C3%A7%C3%B5es" alt="Activity Graph" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=marciogosantana-bit&bg_color=0a0e17&color=00f0ff&line=7a5cff&point=ff2bd6&area=true&area_color=7a5cff&hide_border=true&radius=10&custom_title=Activity%20Graph%20%E2%80%94%20Contribui%C3%A7%C3%B5es" alt="Activity Graph" width="98%"/>
 
 </div>
 
@@ -296,7 +296,7 @@ dev@brasilia:~$ cat objetivos_atuais.md
 ## 🏆 Troféus
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=onedark&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7&row=1" alt="GitHub Trophies" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=marciogosantana-bit&theme=onedark&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7&row=1" alt="GitHub Trophies" width="100%"/>
 </div>
 
 <br/>
@@ -307,9 +307,9 @@ dev@brasilia:~$ cat objetivos_atuais.md
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake.svg" />
-  <img alt="Snake devorando minhas contribuições" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marciogosantana-bit/marciogosantana-bit/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marciogosantana-bit/marciogosantana-bit/output/github-snake.svg" />
+  <img alt="Snake devorando minhas contribuições" src="https://raw.githubusercontent.com/marciogosantana-bit/marciogosantana-bit/output/github-snake-dark.svg" width="100%" />
 </picture>
 </div>
 
@@ -325,11 +325,11 @@ dev@brasilia:~$ cat objetivos_atuais.md
 
 <br/>
 
-<a href="https://linkedin.com/in/SEU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0a0e17?style=for-the-badge&logo=linkedin&logoColor=0a66c2" alt="LinkedIn"/></a>
-<a href="https://github.com/SEU_USUARIO"><img src="https://img.shields.io/badge/GitHub-0a0e17?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://linkedin.com/in/marciogosantana-bit"><img src="https://img.shields.io/badge/LinkedIn-0a0e17?style=for-the-badge&logo=linkedin&logoColor=0a66c2" alt="LinkedIn"/></a>
+<a href="https://github.com/marciogosantana-bit"><img src="https://img.shields.io/badge/GitHub-0a0e17?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/Email-0a0e17?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="Email"/></a>
 <a href="https://wa.me/5561999999999"><img src="https://img.shields.io/badge/WhatsApp-0a0e17?style=for-the-badge&logo=whatsapp&logoColor=25d366" alt="WhatsApp"/></a>
-<a href="https://instagram.com/SEU_USUARIO"><img src="https://img.shields.io/badge/Instagram-0a0e17?style=for-the-badge&logo=instagram&logoColor=e4405f" alt="Instagram"/></a>
+<a href="https://instagram.com/marciogosantana-bit"><img src="https://img.shields.io/badge/Instagram-0a0e17?style=for-the-badge&logo=instagram&logoColor=e4405f" alt="Instagram"/></a>
 <a href="https://SEU_SITE.netlify.app"><img src="https://img.shields.io/badge/Portfólio-0a0e17?style=for-the-badge&logo=netlify&logoColor=00c7b7" alt="Portfólio"/></a>
 
 </div>
@@ -357,7 +357,7 @@ dev@brasilia:~$ cat objetivos_atuais.md
 ═══════════════════════════════════════════════════════════════════════
  🐍 COMO ATIVAR A SNAKE (única parte que exige um segundo arquivo)
 ═══════════════════════════════════════════════════════════════════════
- 1. No repositório SEU_USUARIO/SEU_USUARIO, crie o arquivo:
+ 1. No repositório marciogosantana-bit/marciogosantana-bit, crie o arquivo:
       .github/workflows/snake.yml
  2. Cole dentro dele o conteúdo abaixo (sem as linhas de comentário).
  3. Settings → Actions → General → Workflow permissions → "Read and write".
