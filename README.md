@@ -1,18 +1,31 @@
-<!-- ╔══════════════════════════════════════════════════════════════╗
-     ║  GUIA RÁPIDO — troque os valores abaixo (Ctrl+F / Substituir) ║
-     ║  SEU_USUARIO  → seu username do GitHub                        ║
-     ║  SEU NOME     → seu nome (também no assets/banner.svg)        ║
-     ║  repo1..repo4 → nomes dos seus repositórios                   ║
-     ╚══════════════════════════════════════════════════════════════╝ -->
+<!--
+╔════════════════════════════════════════════════════════════════════╗
+║  README ÚNICO — não precisa de nenhum outro arquivo (exceto Snake) ║
+║                                                                    ║
+║  Faça Ctrl+F / Substituir:                                         ║
+║    SEU_USUARIO → seu username do GitHub                            ║
+║    SEU+NOME    → seu nome (no banner, separe com +)                ║
+║    SEU NOME    → seu nome (no texto)                               ║
+║    repo1..repo4 → nomes dos seus repositórios                      ║
+║                                                                    ║
+║  SNAKE: o código do workflow está no FINAL deste arquivo,          ║
+║  dentro de um comentário. Veja as instruções lá.                   ║
+╚════════════════════════════════════════════════════════════════════╝
+-->
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/main/assets/banner.svg" alt="Banner — sistema inicializando" width="100%" />
+<!-- BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050810,50:1b1040,100:050810&height=230&section=header&text=SEU+NOME&fontSize=64&fontColor=00f0ff&fontAlignY=38&desc=DEV+WEB+%C2%B7+JAVA+%C2%B7+HARDWARE+%C2%B7+BRAS%C3%8DLIA&descSize=18&descColor=c9d1d9&descAlignY=60&animation=fadeIn&stroke=7a5cff&strokeWidth=1" width="100%" alt="Banner" />
+
+<!-- BOOT DO SISTEMA -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=1400&pause=1800&color=39FF88&background=0A0E17&center=false&vCenter=true&multiline=true&repeat=true&width=560&height=170&lines=%3E+BOOT+SEQUENCE+INICIADA...;%5B+OK+%5D+Carregando+n%C3%BAcleo+neural;%5B+OK+%5D+Montando+reposit%C3%B3rios;%5B+OK+%5D+Sincronizando+commits;%5B+OK+%5D+Compilando+criatividade;%E2%97%8F+SISTEMA+ONLINE" alt="Boot do sistema" />
 
 <br/>
 
+<!-- TYPING ANIMATION -->
 <a href="https://github.com/SEU_USUARIO">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=00F0FF&center=true&vCenter=true&multiline=false&repeat=true&width=760&height=48&lines=%3E+Inicializando+perfil...;%3E+Estudante+de+Inform%C3%A1tica+%40+ETB;%3E+Dev+Web+em+forma%C3%A7%C3%A3o+%F0%9F%92%BB;%3E+Do+hardware+ao+c%C3%B3digo+%F0%9F%94%A7;%3E+Rumo+%C3%A0+Engenharia+de+Software+na+UnB+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=00F0FF&center=true&vCenter=true&repeat=true&width=760&height=48&lines=%3E+Estudante+de+Inform%C3%A1tica+%40+ETB;%3E+Dev+Web+em+forma%C3%A7%C3%A3o+%F0%9F%92%BB;%3E+Do+hardware+ao+c%C3%B3digo+%F0%9F%94%A7;%3E+Rumo+%C3%A0+Engenharia+de+Software+na+UnB+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -30,7 +43,7 @@
 <br/><br/>
 
 <a href="#-sobre-mim"><img src="https://img.shields.io/badge/01-SOBRE-00f0ff?style=flat-square&labelColor=0a0e17" alt="Sobre"/></a>
-<a href="#-tech-stack"><img src="https://img.shields.io/badge/02-STACK-7a5cff?style=flat-square&labelColor=0a0e17" alt="Stack"/></a>
+<a href="#️-tech-stack"><img src="https://img.shields.io/badge/02-STACK-7a5cff?style=flat-square&labelColor=0a0e17" alt="Stack"/></a>
 <a href="#-hardware--suporte-técnico"><img src="https://img.shields.io/badge/03-HARDWARE-ffbd2e?style=flat-square&labelColor=0a0e17" alt="Hardware"/></a>
 <a href="#-projetos"><img src="https://img.shields.io/badge/04-PROJETOS-ff2bd6?style=flat-square&labelColor=0a0e17" alt="Projetos"/></a>
 <a href="#-objetivos"><img src="https://img.shields.io/badge/05-OBJETIVOS-39ff88?style=flat-square&labelColor=0a0e17" alt="Objetivos"/></a>
@@ -224,12 +237,12 @@ const dev = {
 
 <br/>
 
-<!-- ═══════════════════════════ OBJETIVOS ═══════════════════════════ -->
+<!-- ═══════════════════════════ OBJETIVOS (TERMINAL) ═══════════════════════════ -->
 
 ## 🎯 Objetivos
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/main/assets/terminal.svg" alt="Terminal — objetivos atuais" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2200&pause=2500&color=39FF88&background=0A0E17&center=false&vCenter=true&multiline=true&repeat=true&width=620&height=210&lines=dev%40brasilia%3A%7E%24+cat+objetivos_atuais.md;%5B%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%5D+30%25+Portf%C3%B3lio+no+GitHub;%5B%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%5D+40%25+Front-end+e+back-end;%5B%E2%96%A0%E2%96%A0%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%5D+20%25+1%C2%BA+est%C3%A1gio+%28Bras%C3%ADlia%29;%5B%E2%96%A0%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%5D+10%25+Freelas%3A+landing+pages+e+sites;%5B%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%5D+30%25+Eng.+de+Software+na+UnB;%2F%2F+buscando%3A+est%C3%A1gio+%C2%B7+remoto+%C2%B7+freelas" alt="Terminal: objetivos atuais" />
 </div>
 
 <details>
@@ -238,15 +251,13 @@ const dev = {
 ```bash
 dev@brasilia:~$ cat objetivos_atuais.md
 
-## OBJETIVOS ATIVOS — 2026
-[■■■□□□□□□□]  30%  Construir meu portfólio no GitHub
-[■■■■□□□□□□]  40%  Evoluir em front-end e back-end
-[■■□□□□□□□□]  20%  1º estágio em programação (Brasília)
-[■□□□□□□□□□]  10%  Freelas: landing pages e sites p/ empresas
-[■■■□□□□□□□]  30%  Caminho até Eng. de Software na UnB
+[■■■□□□□□□□]  30%  Portfólio no GitHub
+[■■■■□□□□□□]  40%  Front-end e back-end
+[■■□□□□□□□□]  20%  1º estágio (Brasília)
+[■□□□□□□□□□]  10%  Freelas: landing pages e sites
+[■■■□□□□□□□]  30%  Eng. de Software na UnB
 
-// buscando: estágio · remoto / home office · freelas
-dev@brasilia:~$ status: aprendendo todo dia ✔
+// buscando: estágio · remoto · freelas
 ```
 
 </details>
@@ -341,3 +352,53 @@ dev@brasilia:~$ status: aprendendo todo dia ✔
 <sub>⭐ Gostou do perfil? Deixe uma estrela e vamos nos conectar!</sub>
 
 </div>
+
+<!--
+═══════════════════════════════════════════════════════════════════════
+ 🐍 COMO ATIVAR A SNAKE (única parte que exige um segundo arquivo)
+═══════════════════════════════════════════════════════════════════════
+ 1. No repositório SEU_USUARIO/SEU_USUARIO, crie o arquivo:
+      .github/workflows/snake.yml
+ 2. Cole dentro dele o conteúdo abaixo (sem as linhas de comentário).
+ 3. Settings → Actions → General → Workflow permissions → "Read and write".
+ 4. Aba Actions → "Generate Snake Animation" → Run workflow.
+ 5. Aguarde 1-2 min: a branch "output" será criada e a cobrinha aparece.
+
+--- CONTEÚDO DO snake.yml ---
+
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Gerar snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Publicar na branch output
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+--- FIM ---
+-->
