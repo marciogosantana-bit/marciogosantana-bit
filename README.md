@@ -327,9 +327,9 @@ dev@brasilia:~$ cat objetivos_atuais.md
 
 <a href="https://linkedin.com/in/marciogosantana-bit"><img src="https://img.shields.io/badge/LinkedIn-0a0e17?style=for-the-badge&logo=linkedin&logoColor=0a66c2" alt="LinkedIn"/></a>
 <a href="https://github.com/marciogosantana-bit"><img src="https://img.shields.io/badge/GitHub-0a0e17?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/Email-0a0e17?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="Email"/></a>
-<a href="https://wa.me/5561999999999"><img src="https://img.shields.io/badge/WhatsApp-0a0e17?style=for-the-badge&logo=whatsapp&logoColor=25d366" alt="WhatsApp"/></a>
-<a href="https://instagram.com/marciogosantana-bit"><img src="https://img.shields.io/badge/Instagram-0a0e17?style=for-the-badge&logo=instagram&logoColor=e4405f" alt="Instagram"/></a>
+<a href="mailto:marcio.g.o.santana@gmail.com"><img src="https://img.shields.io/badge/Email-0a0e17?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="Email"/></a>
+<a href="https://wa.me/5561991630923"><img src="https://img.shields.io/badge/WhatsApp-0a0e17?style=for-the-badge&logo=whatsapp&logoColor=25d366" alt="WhatsApp"/></a>
+<a href="https://instagram.com/mgabriel_oliveira.s"><img src="https://img.shields.io/badge/Instagram-0a0e17?style=for-the-badge&logo=instagram&logoColor=e4405f" alt="Instagram"/></a>
 <a href="https://SEU_SITE.netlify.app"><img src="https://img.shields.io/badge/Portfólio-0a0e17?style=for-the-badge&logo=netlify&logoColor=00c7b7" alt="Portfólio"/></a>
 
 </div>
